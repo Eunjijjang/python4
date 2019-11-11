@@ -1,0 +1,1 @@
+web: gunicorn postprorject.wsgi --log-file -
